@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Northwind Ticket Router (FDE practice project)
 
 Excel inbox -> clean -> rules -> mask PII -> token guard -> LLM -> confidence check -> tickets.
@@ -18,3 +19,7 @@ Excel inbox -> clean -> rules -> mask PII -> token guard -> LLM -> confidence ch
 
 ## Docker
     docker build -t ticket-router . ; docker run -p 8000:8000 ticket-router
+=======
+# ai-support-ticket-router.
+Routes messy support emails to the right team using rules, PII masking, token guards and an LLM, with a human-review fallback. Python, Streamlit, FastAPI.
+>>>>>>> 807a8aa9134f4d7b363d95d8b37a84d244e6013b
