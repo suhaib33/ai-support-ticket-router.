@@ -1,0 +1,8 @@
+pandas
+openpyxl
+pydantic
+fastapi
+uvicorn
+httpx
+pytest
+# for real LLM mode, add ONE of: langchain-openai | langchain-google-genai | langchain-groq

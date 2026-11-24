@@ -1,0 +1,25 @@
+id,category,team,priority
+1,Sales,Sales,Medium
+2,Product,Product,Medium
+3,Billing,Finance,Low
+4,Product,Product,Low
+5,Billing,Finance,High
+6,Sales,Sales,Medium
+7,IT,IT,High
+8,General,Support,Low
+9,Spam,Spam Review,Low
+10,Spam,Spam Review,Low
+11,Spam,Spam Review,Low
+12,Spam,Spam Review,Low
+13,Product+Sales,Product|Sales,Medium
+14,General,Support,Medium
+15,Sales,Sales,Medium
+16,Billing,Finance,Medium
+17,Product,Product,Medium
+18,IT,IT,High
+19,General,Support,Low
+20,Sales,Sales,Medium
+21,Product,Product,Medium
+22,Unclear,Needs Review,Low
+23,General,Support,Medium
+24,Spam,Spam Review,Low
